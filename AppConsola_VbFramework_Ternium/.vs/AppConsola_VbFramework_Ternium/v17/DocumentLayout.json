@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C4FCCD8-EDE1-4ACD-AC3E-17D4192DF779}|AppConsola_VbFramework_Ternium.vbproj|c:\\users\\chave\\source\\repos\\aplicacion-vb-ternium\\appconsola_vbframework_ternium\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{7C4FCCD8-EDE1-4ACD-AC3E-17D4192DF779}|AppConsola_VbFramework_Ternium.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FCCD8-EDE1-4ACD-AC3E-17D4192DF779}|AppConsola_VbFramework_Ternium.vbproj|c:\\users\\chave\\source\\repos\\aplicacion-vb-ternium\\appconsola_vbframework_ternium\\userapplication.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7C4FCCD8-EDE1-4ACD-AC3E-17D4192DF779}|AppConsola_VbFramework_Ternium.vbproj|solutionrelative:userapplication.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FCCD8-EDE1-4ACD-AC3E-17D4192DF779}|AppConsola_VbFramework_Ternium.vbproj|c:\\users\\chave\\source\\repos\\aplicacion-vb-ternium\\appconsola_vbframework_ternium\\implementaciones\\configmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7C4FCCD8-EDE1-4ACD-AC3E-17D4192DF779}|AppConsola_VbFramework_Ternium.vbproj|solutionrelative:implementaciones\\configmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FCCD8-EDE1-4ACD-AC3E-17D4192DF779}|AppConsola_VbFramework_Ternium.vbproj|c:\\users\\chave\\source\\repos\\aplicacion-vb-ternium\\appconsola_vbframework_ternium\\implementaciones\\logmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7C4FCCD8-EDE1-4ACD-AC3E-17D4192DF779}|AppConsola_VbFramework_Ternium.vbproj|solutionrelative:implementaciones\\logmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +46,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogManager.vb",
+              "DocumentMoniker": "C:\\Users\\chave\\source\\repos\\Aplicacion-Vb-Ternium\\AppConsola_VbFramework_Ternium\\Implementaciones\\LogManager.vb",
+              "RelativeDocumentMoniker": "Implementaciones\\LogManager.vb",
+              "ToolTip": "C:\\Users\\chave\\source\\repos\\Aplicacion-Vb-Ternium\\AppConsola_VbFramework_Ternium\\Implementaciones\\LogManager.vb",
+              "RelativeToolTip": "Implementaciones\\LogManager.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-31T15:23:46.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigManager.vb",
+              "DocumentMoniker": "C:\\Users\\chave\\source\\repos\\Aplicacion-Vb-Ternium\\AppConsola_VbFramework_Ternium\\Implementaciones\\ConfigManager.vb",
+              "RelativeDocumentMoniker": "Implementaciones\\ConfigManager.vb",
+              "ToolTip": "C:\\Users\\chave\\source\\repos\\Aplicacion-Vb-Ternium\\AppConsola_VbFramework_Ternium\\Implementaciones\\ConfigManager.vb",
+              "RelativeToolTip": "Implementaciones\\ConfigManager.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-31T15:23:34.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserApplication.vb",
+              "DocumentMoniker": "C:\\Users\\chave\\source\\repos\\Aplicacion-Vb-Ternium\\AppConsola_VbFramework_Ternium\\UserApplication.vb",
+              "RelativeDocumentMoniker": "UserApplication.vb",
+              "ToolTip": "C:\\Users\\chave\\source\\repos\\Aplicacion-Vb-Ternium\\AppConsola_VbFramework_Ternium\\UserApplication.vb",
+              "RelativeToolTip": "UserApplication.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-31T15:23:06.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
               "DocumentMoniker": "C:\\Users\\chave\\source\\repos\\Aplicacion-Vb-Ternium\\AppConsola_VbFramework_Ternium\\Program.vb",
               "RelativeDocumentMoniker": "Program.vb",
               "ToolTip": "C:\\Users\\chave\\source\\repos\\Aplicacion-Vb-Ternium\\AppConsola_VbFramework_Ternium\\Program.vb",
               "RelativeToolTip": "Program.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-08-31T14:55:31.481Z",
               "EditorCaption": ""
