@@ -1,0 +1,19 @@
+31/08/2024 10:27:20 a. m.: Iniciando la aplicación
+31/08/2024 10:28:00 a. m.: --- Resultados de usuarios de acuerdo a la edad ingresada ---
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Jhon|Chavez|41|jhon@chavez.com|Bicicleta,Caminar,Cine,Correr
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Brenda|Rodriguez|39|Brenda@Rodri.com|Cocinar,Gym,Kdrama
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Ana|Torres|64|Ana@torres.com|Caminar,Cocinar,Iglesia,Postres
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Andres|Chavez|36|andres@chavez.com|Cine,Patinar,viajar
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Paola|Leon|40|Paola.Leon@alguno.com|Caminar,Cine,Viajar
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Natalia|Paris|56|nata@paris.com|DJ,Fotos,Modelaje
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Adriana|Cordoba|38|Adriana@cordoba.com|Bailar,Cine,Viajar
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Jesus|Cardenaz|38|jesus@cardenaz.com|Baile,Cine,Comer
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Pablo|Perez|36|pablo@perez.com|autos,motos,programar
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Nelly|Jordan|42|nelly@jordan|Cerveza,Comer,Escribir,Programar
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Carlos|Montoya|37|Carlos@Montoya.com|Bailar,Cocinar,Leer,Viajar
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Mariana|Luna|46|Mariana@Luna.com|Escribir,Leer,Viajar
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Natys|Castaneda|39|Natys@Castaneda.com|Musica,Tatuajes,Viajar
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Andrea|Moreno|44|Andrea@moreno.com|Bailar,Cine,Gym
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Yessica|Maya|42|yessica@maya.com|Bailar,Carpinteria,Pintura
+31/08/2024 10:28:00 a. m.: --- Usuarios Creados en las Últimas 2 Horas ---
+31/08/2024 10:28:00 a. m.: 31/08/2024 10:28:00 a. m.: Yessica|Maya|42|yessica@maya.com|Carpinteria-Pintura-Bailar
